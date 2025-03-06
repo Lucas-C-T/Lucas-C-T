@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:880808,100:000000&text=Hello%20World!%20-nl-%20I'm%20Lucas%20Totaro&section=header&fontColor=000100&animation=twinkling&stroke=F0F0EC&textBg=false&fontSize=50&strokeWidth=0.25"/> 
 
-I'm a mechanical engineer making a career transition to data science. I'm also a 3D printing enthusiast and am currently diving deep into data science and Python studies at EBAC.
+I'm a mechanical engineer transitioning into data science, a 3D printing enthusiast, and I am currently diving deep into data science and studying Python at EBAC.
+
+<!-- I'm a mechanical engineer making a career transition to data science. I'm also a 3D printing enthusiast and am currently diving deep into data science and Python studies at EBAC.
+!-->
 
 * 🌍  I'm based in São Paulo, Brazil
 * 🖥️  See my portfolio at [Work In progress...](http://https://github.com/Lucas-C-T)
