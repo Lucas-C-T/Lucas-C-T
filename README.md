@@ -149,9 +149,9 @@ Aqui estão projetos práticos de ciência de dados e machine learning que refle
 * 📧 E-mail: [lucas.totaro@gmail.com](mailto:lucas.totaro@gmail.com)
 
 ---
-*“Em Deus nós confiamos. Todos os outros devem trazer dados.” – W. Edwards Deming*
+*“É um erro capital teorizar antes de se ter dados.” — Arthur Conan Doyle (Sherlock Holmes)*
 
-
+</details>
 
 
 <!--
